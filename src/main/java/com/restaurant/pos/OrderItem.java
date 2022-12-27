@@ -12,6 +12,7 @@ public class OrderItem {
 	{
 		this.item= item;
 		this.qty = qty;
+
 		this.price = item.getPrice() * qty;
 	}
 	
