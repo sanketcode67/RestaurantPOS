@@ -4,6 +4,8 @@ public class OrderItem {
 
 	private Item item;
 	private int qty;
+
+
 	private int price;
 	
 	public OrderItem(Item item,int qty)
