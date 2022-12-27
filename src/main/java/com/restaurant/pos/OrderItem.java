@@ -11,6 +11,7 @@ public class OrderItem {
 	public OrderItem(Item item,int qty)
 	{
 		this.item= item;
+
 		this.qty = qty;
 
 		this.price = item.getPrice() * qty;
