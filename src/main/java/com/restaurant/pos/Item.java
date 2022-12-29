@@ -2,7 +2,7 @@ package com.restaurant.pos;
 
 public class Item {
 	
-	
+	 //data members
 	 	private int id;
 	    private String name;
 
